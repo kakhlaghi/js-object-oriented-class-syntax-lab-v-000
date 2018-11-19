@@ -21,9 +21,7 @@ class BoardMember{
   }
 
   sayHi(){
-    return ""
+    return `Hi my name is ${}`
   }
 
 }
-
-
